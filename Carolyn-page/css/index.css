@@ -1,0 +1,9 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
+#header {
+    color: #000000;
+    font-weight: 550;
+}
